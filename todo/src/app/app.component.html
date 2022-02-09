@@ -3,5 +3,9 @@
 
 <!--ul>li + TAB cria a estrutura -->
 <ul>
-  <li *ngFor="let todo of todos">{{ todo }}</li>
+  <li *ngFor="let todo of todos">{{ todo.id }} {{ todo.title }} -
+    <button *ngIf="!todo.done">CONCLUIR</button> |
+    <button *ngIf="todo.done">REFAZER</button> |
+    <button>REMOVER</button>
+  </li>
 </ul>
