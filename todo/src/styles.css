@@ -73,7 +73,6 @@ li>button:hover {
     color: #fff;
     border-radius: 30px;
     font-size: 1em;
-    font-weight: 100;
     padding-left: 50px;
     padding-right: 50px;
 }
@@ -88,10 +87,6 @@ li>button:hover {
     -webkit-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
     -moz-box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
     box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
-}
-
-#modal>h1 {
-    font-weight: 300;
 }
 
 input {
