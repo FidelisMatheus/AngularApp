@@ -1,5 +1,5 @@
-# AngularApp
-Primeira aplicação com Angular
+# AngularApp - To Do List
+Aplicação realizada no Curso "Começando com Angular" na Balta.io. Esta aplicação nada mais é que um To Do List, apenas para conhecer e utilizar a ferramenta Angular.
 
 # Todo
 
